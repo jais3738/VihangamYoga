@@ -1,0 +1,29 @@
+.bg-navbar-toggler{
+	background-color:#ffffff;
+}
+.headings-h3{
+	font-size:22px;
+}
+.footer {
+	height: 50px; /* .push must be the same height as .footer */
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+.footer p {
+	margin-top:10px;
+}
+.mft10{
+	margin-top:10%;
+}
+
+.imgvihangam{
+	margin-top:25%
+}
+.bg-red{
+	background-color:#ff0000;
+}
